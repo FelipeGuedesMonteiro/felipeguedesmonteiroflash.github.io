@@ -1,0 +1,422 @@
+
+body{
+	
+	padding-top:56px;
+    background-color:#FFFFFF;   
+	font-family:arial,helvetica,sans-serif;
+	background-image:url(../imgF/FU.jpg);
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	background-attachment:fixed;
+}
+
+section{
+	
+	padding-top:49px;
+	padding-bottom:15px;
+	min-height:100vh;
+	
+}
+footer{
+	
+	
+	width:100%;
+	height:150px;
+	background-color:#000000;
+	color:#fff;
+		
+}
+#fot{
+	
+	margin-left:500px;
+	margin-top:-30px;
+}
+.conteudofooter{
+	
+
+	font-size:20px;
+	margin-left:250px;
+	
+}
+/*search*/
+.search{
+	
+	margin-left:1100px;
+	
+	
+}
+/*Conteúdo*/
+.branco{
+	
+	background-color:#FFFFFF;
+	width:700px;
+	height:550px;
+	margin-left:500px;
+	margin-top:-550px;
+		
+}
+/*Título*/
+h2{
+	
+	
+	color:#000;
+	
+}
+#Temporadas{
+	
+	margin-top:300px;
+		
+}
+#Notícias{
+	
+	
+	margin-top:
+	
+}
+#Joe{
+
+
+	margin-top:4000px;
+
+}
+/*Conteúdo*/
+.conteúdosobre{
+	
+	width:800px;
+	height:100px;
+	background-color:#FFFFFF;
+}
+/*Conteúdo*/
+.conteudomenu{
+	
+	font-size:20px;
+	margin-top:10px;
+		
+}
+.conteudosearch{
+	
+	font-size:20px;
+	margin-top:15px;
+		
+}
+.tamanhomenu{
+	
+	height:70px;
+	
+}
+/*imagens especificas*/
+.imgTodas{
+	height:350px;
+	width: 1000px;
+	font-size:20px;
+	color:#000;
+}
+.imgcisco{
+
+	height:400px;
+	width: 1000px;
+	font-size:20px;
+	color:#000;
+
+}
+.imgWest{
+
+	height:330px;
+	width: 1000px;
+	font-size:20px;
+	color:#000;
+
+}
+.imgBarry{
+
+	height:400px;
+	width: 1000px;
+	font-size:20px;
+	color:#000;
+}
+.imgnotícia1{
+
+
+	height:350px;
+	width: 750px;
+	font-size:20px;
+	color:#000;
+	margin-left: 170px;
+
+}
+.imgIris{
+
+	height:400px;
+	width: 1000px;
+	font-size:20px;
+	color:#000;
+}
+/*Texto das notícias*/
+.TNT{
+
+	margin-top: 20px;
+	font-size:20px;
+	color:#000;
+
+}
+.TNT2{
+
+	margin-top: 20px;
+	font-size:20px;
+	color:#000;
+
+}
+/*Imagens dos Resumos das Temporadas*/
+.R1{
+	
+	height:250px;
+	width:400px;
+	
+	
+}
+
+.imgT1{
+
+	height:500px;
+	width: 1130px;
+	font-size:20px;
+	color:#000;
+	margin-left:5px;
+
+}
+/*Texto*/
+.T1{
+	
+	font-size:20px;
+	color:#000;
+	
+}
+/*Texto das Temporadas*/
+.T1T{
+
+	font-size:20px;
+	color:#000;
+}
+
+/*Primeiro Notícias*/
+.imgE{
+	
+	height:250px;
+	width:380px;
+	margin-left:-10px;	
+    margin-top:10px;
+}
+.imgD{
+	
+	height:250px;
+	width:380px;
+	margin-left:800px;	
+	margin-top:-790px;
+}
+.imgM{
+	
+	height:250px;
+	width:380px;
+	margin-left:390px;	
+	margin-top:-790px;
+}
+
+.textoMNE{
+	
+	height:250px;
+	width:350px;
+	margin-top:10px;
+	color:#000;
+}
+.textoMNM{
+	
+	height:250px;
+	width:350px;
+	margin-left:400px;	
+	margin-top:-280px;
+	color:#000;
+}
+.textoMND{
+	
+	height:250px;
+	width:350px;
+	margin-left:810px;	
+	margin-top:-280px;
+	color:#000;
+}
+/*Segundo*/
+
+.imgE2{
+	
+	height:250px;
+	width:380px;
+	margin-left:-10px;	
+    margin-top:10px;
+}
+.imgD2{
+	
+	height:250px;
+	width:380px;
+	margin-left:800px;	
+	margin-top:-790px;
+}
+.imgM2{
+	
+	height:250px;
+	width:380px;
+	margin-left:390px;	
+	margin-top:-790px;
+}
+
+.textoMNE2{
+	
+	height:250px;
+	width:350px;
+	margin-top:10px;
+	color:#000;
+}
+.textoMNM2{
+	
+	height:250px;
+	width:350px;
+	margin-left:400px;	
+	margin-top:-280px;
+	color:#000;
+}
+.textoMND2{
+	
+	height:250px;
+	width:350px;
+	margin-left:810px;	
+	margin-top:-280px;
+	color:#000;
+}
+ 
+ 
+ 
+ 
+ /*Imagem Temporadas Primeira*/
+
+
+.imgE3{
+	
+	height:250px;
+	width:380px;
+	margin-left:-10px;	
+    margin-top:10px;
+}
+.imgD3{
+	
+	height:250px;
+	width:380px;
+	margin-left:800px;	
+	margin-top:-790px;
+}
+.imgM3{
+	
+	height:250px;
+	width:380px;
+	margin-left:390px;	
+	margin-top:-790px;
+}
+
+.textoMNE3{
+	
+	height:250px;
+	width:350px;
+	margin-top:10px;
+	color:#000;
+	margin-left:100px;
+	font-size:20px;
+}
+.textoMNM3{
+	
+	height:250px;
+	width:350px;
+	margin-left:500px;	
+	margin-top:-270px;
+	color:#000;
+	font-size:20px;
+}
+.textoMND3{
+	
+	height:250px;
+	width:350px;
+	margin-left:910px;	
+	margin-top:-270px;
+	color:#000;
+	font-size:20px;
+}
+
+/*Imagem Temporadas Segunda*/
+
+
+.imgE4{
+	
+	height:250px;
+	width:380px;
+	margin-left:-10px;	
+    margin-top:-150px;
+}
+.imgM4{
+	
+	height:250px;
+	width:380px;
+	margin-left:390px;	
+	margin-top:-790px;
+}
+
+.textoMNE4{
+	
+	height:250px;
+	width:350px;
+	margin-top:10px;
+	color:#000;
+	margin-left:100px;
+	font-size:20px;
+}
+.textoMNM4{
+	
+	height:250px;
+	width:350px;
+	margin-left:500px;	
+	margin-top:-270px;
+	color:#000;
+	font-size:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
